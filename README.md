@@ -45,6 +45,3 @@ Sinta-se à vontade para enviar sugestões, relatar *bugs* ou contribuir!
 
 ---
 
-## 🧑‍💻 Autor
-
-[Seu Nome/GitHub Handle Aqui]
