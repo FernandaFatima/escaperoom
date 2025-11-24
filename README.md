@@ -24,7 +24,7 @@ Toda a lógica do jogo, desde a **validação de senhas** até a **troca dinâmi
 
 ## 🚀 Como Acessar e Jogar
 
-Basta acessar o link abaixo para jogar diretamente no seu navegador. O projeto também pode ser clonado e aberto localmente (abrindo o `index.html`).
+Basta acessar o link abaixo para jogar diretamente no seu navegador. 
 
 🔗 **Acesse aqui:** https://fernandafatima.github.io/escaperoom
 
